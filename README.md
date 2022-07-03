@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Leal</h1>
 <h3 align="center">A passionate developer from México</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://luislealdev.web.app](https://luislealdev.web.app)
 
