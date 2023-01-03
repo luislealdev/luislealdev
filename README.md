@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Leal</h1>
  <h3 align="center">A passionate developer, freelancer and student</h3>
  
- - 🌱 I’m currently learning *React*
- - 👨‍💻 All of my projects are available at [https://luislealdev.web.app](https://luislealdev.web.app)
+  - 🌱 I’m currently learning *Next*
+ - 👨‍💻 All of my projects are available at [https://luisrrleal.com](https://luisrrleal.com)
  - 📫 How to reach me *luisrrleal@gmail.com*
 
  <h3 align="left">Connect with me:</h3>
