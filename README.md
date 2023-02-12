@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Leal</h1>
  <h3 align="center">A passionate developer, freelancer and student</h3>
  
-  - 🌱 I’m currently learning *Next js*
+  - 🌱 I’m currently learning *Python*
  - 👨‍💻 All of my projects are available at [https://luisrrleal.com](https://luisrrleal.com)
  - 📫 How to reach me *luisrrleal@gmail.com*
 
