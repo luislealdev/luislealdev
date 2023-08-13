@@ -1,115 +1,18 @@
-  <head>
-    <link
-      rel="stylesheet"
-      href="https://luisrrleal.com/styles/leal-styles.css"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
-      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
-    <style>
-      @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap");
-      * {
-        font-family: "Montserrat", sans-serif;
-        line-height: 15px
-      }
-    </style>
-  </head>
-    <div class="grid-40-60 ph-40 justify-text gap-25">
-      <div>
-        <h2>About me</h2>
-Student of Computer Systems Engineering. From an early age, I have taken various development courses that are presented here. 
-<br>
-Currently working for Creativa 2020 (Marketing Agency) and with projects as Freelancer.
-        <hr />
-        <h2>Contact</h2>
-        <div class="flex align-center gap-5">
-        <i class="fa-solid fa-envelope"></i>
-          <a href="mailto:luisrrleal@gmail.com">luisrrleal@gmail.com</a>
-        </div>
-        <div class="flex align-center gap-5">
-        <i class="fa-solid fa-globe"></i>
-          <a href="https://luisrrleal.com">luisrrleal.com</a>
-        </div>
-                        <div class="flex align-center gap-5">
-          <i class="fa-solid fa-arrow-right"></i>
-        <h2>LANGUAGES AND TOOLS</h2>
-        </div>
-        <div class="grid-c-3">
-          <div>
-            <ul>
-              <li>Html</li>
-              <li>CSS</li>
-              <li>JavaScript</li>
-              <li>TypeScript</li>
-              <li>JAVA</li>
-              <li>Python</li>
-              <li>Dart</li>
-            </ul>
-          </div>
-          <div>
-            <ul>
-              <li>Node Js</li>
-              <li>Express Js</li>
-              <li>React Js</li>
-              <li>Next Js</li>
-              <li>Flutter</li>
-              <li>Firebase</li>
-              <li>Mongo DB</li>
-              <li>Git</li>
-              <li>GitHub</li>
-            </ul>
-          </div>
-          <div>
-            <ul>
-              <li>Figma</li>
-              <li>Material UI</li>
-              <li>Next UI</li>
-              <li>Bootstrap</li>
-            </ul>
-          </div>
-      </div>
-      </div>
-      <div>
-        <h1>Luis Leal</h1> 
-        <div class="flex align-center gap-5">
-          <i class="fa-solid fa-arrow-right"></i>
-          <h2>WORK ESPERIENCE</h2>
-        </div>
-        <h3 style="margin-top:-20px">Freelancer</h3>
-2020-Present
-Developer of web sites and applications for companies, associations
-and artists.
-        <h3>Technology Manager</h3>
-September 2022-Present
-Web site and application developer at the Marketing Creativa 2020
-agency.
-<br>
-        <div class="flex align-center gap-5">
-          <i class="fa-solid fa-arrow-right"></i>
-          <h2>STUDIES</h2>
-        </div>
-        <h3 style="margin-top:-20px">Instituto Tecnológico Nacional de México en Celaya</h3>
-2021-Present
-Ingeniería en Sistemas Computacionales
-        <h3>Online courses</h3>
-Web development - Udemy - Angela Yu
-MagIA Juvenil - Artificial Intelligence - Microsoft/Intevolution
-React from zero to expert - Udemy - Fernando Herrera
-Next Js - Udemy - Fernando Herrera
-The Complete Python Pro Bootcamp for 2023 - Udemy - Angela Yu
-<br>
-        <div class="flex align-center gap-5">
-          <i class="fa-solid fa-arrow-right"></i>
-          <h2>LANGUAGES</h2>
-        </div>
-Fluent English
-Basic French
-Native Spanish
-<br>
-        </div>
-      </div>
-    </div>
+<h1 align="center">Hi 👋, I'm Luis Leal</h1>
+ <h3 align="center">A passionate developer, freelancer and student</h3>
+ 
+  - 🌱 I’m currently learning *Python*
+ - 👨‍💻 All of my projects are available at [https://luisrrleal.com](https://luisrrleal.com)
+ - 📫 How to reach me *luisrrleal@gmail.com*
+
+ <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://www.github.com/luislealdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/luisrrleal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/luislealdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+ <h3 align="left">Languages and Tools:</h3>
+ <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/luislealdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luislealdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/luislealdev"><img src="https://github-readme-stats.vercel.app/api?username=luislealdev&show_icons=true&hide=stars,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="luislealdev's GitHub stats" /></a>
+<a href="https://github.com/luislealdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislealdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
